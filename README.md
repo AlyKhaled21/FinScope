@@ -1,4 +1,4 @@
-# 📈 Stock Market Dashboard
+# 📈 FinScope — Stock Market Dashboard
 
 A real-time stock market analysis web application built with Python and Streamlit. Enter any stock symbol and instantly visualize price trends, key metrics, and moving averages.
 
@@ -45,8 +45,8 @@ Current-Issues-Project/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/AlyKhaled21/Current-Issues-Project.git
-cd Current-Issues-Project
+git clone [https://github.com/AlyKhaled21/finscope.git](https://github.com/AlyKhaled21/finscope.git)
+cd finscope
 ```
 
 **2. Install dependencies**
